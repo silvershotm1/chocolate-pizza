@@ -1,5 +1,30 @@
-<DOCTYPE html>
-<html>
-  <head>
-    <title> Chocolate Pizza </title>
-  </head>
+
+
+header {
+  font-family: 'Pacifico', cursive;
+  width:901px;
+  display:inline-block;
+  vertical-align: text-top;
+}
+
+footer {
+  margin: 0 auto;
+  text-align: center;
+  max-width:901px;
+}
+
+#socialmedia {
+  display: inline-block;
+  float:right;
+}
+#button {
+  display:
+  text-align: center;
+  padding:5px,5px,5px,5px;
+  margin:0 auto;
+  width:100px;
+  height:50px;
+  background-color: red;
+  float:right;
+
+}
